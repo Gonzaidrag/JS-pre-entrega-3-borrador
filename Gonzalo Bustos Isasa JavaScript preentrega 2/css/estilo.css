@@ -1,0 +1,19 @@
+.imgCursos {
+    width: 280px;
+    object-fit: contain;
+    margin: 0.5rem;
+
+}
+.colorBoton{
+    color: aliceblue;
+    background-color: rgb(24, 153, 24);
+}
+.colorBoton:hover {
+    background-color: rgb(41, 131, 41);
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    margin: 0.5rem;
+}
